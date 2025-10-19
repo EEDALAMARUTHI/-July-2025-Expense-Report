@@ -20,6 +20,8 @@ Gym expenses are the second-highest at 10.68% of total spending, also from a sin
 Categories like Fruits, Electronics, Biryani, Cake, and Groceries follow, but each contributes less than 6% to overall expense individually.
 
 <img width="380" height="288" alt="image" src="https://github.com/user-attachments/assets/d70c345d-035e-4d83-9f04-ca2cf47c9627" />
+
+
 Most of your spending happens in the morning, accounting for over two-thirds of your expenses, while night, afternoon, and evening contribute much smaller shares. This means that large or critical payments typically occur early in the day, so financial planning should focus on morning transactions for better control and savings opportunities.
 
 
