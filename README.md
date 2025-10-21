@@ -3,6 +3,8 @@ The **July Month Expenses Report** provides insights into how money was spent ac
 
 <img width="396" height="639" alt="image" src="https://github.com/user-attachments/assets/40e6d5bf-474a-4b7c-855f-4fda4f6de8f6" />
 
+#Insights
+
 Spending was highly concentrated on a few days, suggesting bulk or one-time payments rather than consistent daily expenses.
 
 Most days had small, consistent spends (₹10–₹50), indicating regular daily or minor transactions.
@@ -12,6 +14,7 @@ The average number of transactions per day was ~1.77, showing low-frequency but 
 Days with 3+ transactions: 04-Jul, 06-Jul, 08-Jul, 16-Jul, 28-Jul, 30-Jul — likely busy or high-expense days.
 
 <img width="403" height="450" alt="image" src="https://github.com/user-attachments/assets/67551cd8-8856-4a38-bac1-ea19c1585ae2" />
+#Insights
 
 The Hostel fee accounts for the majority of your spending, making up over half (53.41%) of total expenses, despite being a single transaction.​
 
