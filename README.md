@@ -5,7 +5,7 @@ The **July Month Expenses Report** provides insights into how money was spent ac
 
 # Insights
 
-Spending was highly concentrated on a few days, suggesting bulk or one-time payments rather than consistent daily expenses.
+🧨Spending was highly concentrated on a few days, suggesting bulk or one-time payments rather than consistent daily expenses.
 
 Most days had small, consistent spends (₹10–₹50), indicating regular daily or minor transactions.
 
