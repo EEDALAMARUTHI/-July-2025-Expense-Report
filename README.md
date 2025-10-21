@@ -14,6 +14,7 @@ The average number of transactions per day was ~1.77, showing low-frequency but 
 Days with 3+ transactions: 04-Jul, 06-Jul, 08-Jul, 16-Jul, 28-Jul, 30-Jul — likely busy or high-expense days.
 
 <img width="403" height="450" alt="image" src="https://github.com/user-attachments/assets/67551cd8-8856-4a38-bac1-ea19c1585ae2" />
+
 # Insights
 
 The Hostel fee accounts for the majority of your spending, making up over half (53.41%) of total expenses, despite being a single transaction.​
