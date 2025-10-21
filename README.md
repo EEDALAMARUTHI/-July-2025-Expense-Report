@@ -19,7 +19,7 @@ The **July Month Expenses Report** provides insights into how money was spent ac
 
 🧨The Hostel fee accounts for the majority of your spending, making up over half (53.41%) of total expenses, despite being a single transaction.​
 
-🧨Gym expenses are the second-highest at** 10.68% **of total spending, also from a single transaction.​
+🧨Gym expenses are the second-highest at 10.68% of total spending, also from a single transaction.​
 
 🧨Categories like Fruits, Electronics, Biryani, Cake, and Groceries follow, but each contributes less than 6% to overall expense individually.
 
